@@ -3,5 +3,5 @@
 simple ethereum wallet generator in python,
 dependencies:
 
-ecdsa library
+ecdsa library,
 keccak sha3
