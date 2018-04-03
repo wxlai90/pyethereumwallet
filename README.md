@@ -1,6 +1,6 @@
 # pyethereumwallet
 
-simple ethereum wallet generator in python
+simple ethereum wallet generator in python,
 dependencies:
 
 ecdsa library
