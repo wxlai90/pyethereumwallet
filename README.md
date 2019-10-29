@@ -6,7 +6,10 @@ dependencies:
 ecdsa library,
 keccak sha3
 
-if necessary, run:
-sudo pip install pysha3 ecdsa
+pip install -r requirements.txt
 
-![screenshot](https://raw.githubusercontent.com/wxlai90/pyethereumwallet/master/ethereum%20wallet%20gen%20screenshot.png)
+Output:
+
+> Ethereum Address: 0x14A28b38b613Bd95430aF9BFA706631aE25Ee8f8
+
+> Private Key: 3d8602fe6d543f80bceb6d3a6a9cabdfd8c2cfa8f02186f4ebbb70d7df076de7
